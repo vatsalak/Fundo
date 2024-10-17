@@ -1,0 +1,32 @@
+info: ::1 - - [17/Oct/2024:09:31:45 +0000] "POST /api/v1/login-db HTTP/1.1" 404 47 "-" "PostmanRuntime/7.42.0"
+
+info: ::1 - - [17/Oct/2024:09:57:12 +0000] "POST /api/v1/login-db HTTP/1.1" 404 47 "-" "PostmanRuntime/7.42.0"
+
+info: ::1 - - [17/Oct/2024:09:57:15 +0000] "POST /api/v1/login-db HTTP/1.1" 404 47 "-" "PostmanRuntime/7.42.0"
+
+info: ::1 - - [17/Oct/2024:09:59:17 +0000] "POST /api/v1/login-db HTTP/1.1" 404 47 "-" "PostmanRuntime/7.42.0"
+
+info: ::1 - - [17/Oct/2024:10:03:57 +0000] "POST /api/v1/login-db HTTP/1.1" 404 47 "-" "PostmanRuntime/7.42.0"
+
+info: ::1 - - [17/Oct/2024:10:04:14 +0000] "POST /api/v1/login-db HTTP/1.1" 404 47 "-" "PostmanRuntime/7.42.0"
+
+info: ::1 - - [17/Oct/2024:10:12:58 +0000] "POST /api/v1/users HTTP/1.1" 404 47 "-" "PostmanRuntime/7.42.0"
+
+info: ::1 - - [17/Oct/2024:10:13:02 +0000] "POST /api/v1/users HTTP/1.1" 404 47 "-" "PostmanRuntime/7.42.0"
+
+info: ::1 - - [17/Oct/2024:10:13:14 +0000] "POST /api/v1/login-db HTTP/1.1" 404 47 "-" "PostmanRuntime/7.42.0"
+
+info: ::1 - - [17/Oct/2024:10:14:43 +0000] "POST /api/v1/login-db HTTP/1.1" 404 47 "-" "PostmanRuntime/7.42.0"
+
+info: ::1 - - [17/Oct/2024:10:14:58 +0000] "GET /api/v1/login-db HTTP/1.1" 404 47 "-" "PostmanRuntime/7.42.0"
+
+info: ::1 - - [17/Oct/2024:10:24:09 +0000] "POST /api/v1/register HTTP/1.1" 201 42 "-" "PostmanRuntime/7.42.0"
+
+info: ::1 - - [17/Oct/2024:10:25:25 +0000] "POST /api/v1/register HTTP/1.1" 400 33 "-" "PostmanRuntime/7.42.0"
+
+info: ::1 - - [17/Oct/2024:10:26:01 +0000] "POST /api/v1/register HTTP/1.1" 201 42 "-" "PostmanRuntime/7.42.0"
+
+info: ::1 - - [17/Oct/2024:10:48:31 +0000] "POST /api/v1/login HTTP/1.1" 200 146 "-" "PostmanRuntime/7.42.0"
+
+info: ::1 - - [17/Oct/2024:10:48:45 +0000] "POST /api/v1/login HTTP/1.1" 401 39 "-" "PostmanRuntime/7.42.0"
+
